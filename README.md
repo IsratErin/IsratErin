@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @IsratErin
 - 👀 I’m interested in Software Developmment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning!!
+- 📫 Reach me on: https://www.linkedin.com/in/israt-jahan-erin-a3b161263/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+  
 
 <!---
 IsratErin/IsratErin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
