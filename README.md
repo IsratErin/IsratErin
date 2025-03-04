@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsratErin
-- 👀 I’m interested in Software Developmment
+- 👀 I’m interested in Fullstack Developmment
 - 🌱 I’m currently learning!!
 - 📫 Reach me on: https://www.linkedin.com/in/israt-jahan-erin-a3b161263/
 - 😄 Pronouns: She/Her
